@@ -6,7 +6,7 @@ numbers.each do |x|
   new_numbers << new_numbers
 end
 
-puts new_numbers
+puts 
 
 loop do
 numbers = [1, 2, 3, 4]
