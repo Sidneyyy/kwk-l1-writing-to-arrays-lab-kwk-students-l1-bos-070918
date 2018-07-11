@@ -1,4 +1,4 @@
-new_numbers
+new_numbers = []
 
 numbers = [1, 2, 3, 4]
 numbers.each do |x|
